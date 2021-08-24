@@ -1,4 +1,4 @@
-# SIADS697
+# MADS Capstone Project (SIADS697) Readme
 
 This is the github repository for our Capstone SIADS 697 project, part of the MADS program at the University of Michigan.
 
